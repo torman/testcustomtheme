@@ -5,8 +5,7 @@ body, #page, #header, #menu-bar {
  background-color:transparent;
 }
 body {
-    background-color: #F3F3F1;
-    background-image: url("../images/leaf_big.png");
+    background-color: #FF0000;
     background-position: left 20%;
     background-repeat: no-repeat;
     font-family: open sans,Arial,Helvetica,sans-serif;
@@ -619,6 +618,7 @@ ul.nice-menu ul {
     padding: 0;
 	text-transform:capitalize;
 }
+/* add a comment */
 #block-boxes-1392394596 li a {
     color: #FFFFFF !important;
     font-weight: 300 !important;
